@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "IJSZUJ",
+      "occupation": "OZIJDOZ",
+      "weapon": "FUN",
+      "isCartoon": "on",
+      "id": 4,
+      "cartoon": true
+    },
+    {
+      "name": "2",
+      "occupation": "E",
+      "weapon": "3",
+      "isCartoon": "on",
+      "id": 5
+    },
+    {
+      "name": "2390I",
+      "occupation": "AS",
+      "weapon": "AS",
+      "isCartoon": "on",
+      "id": 6
+    },
+    {
+      "name": "2390I",
+      "occupation": "AS",
+      "weapon": "AS",
+      "isCartoon": "on",
+      "id": 7
+    },
+    {
+      "name": "DZ",
+      "occupation": "ZD",
+      "weapon": "A",
+      "isCartoon": "on",
+      "id": 8
+    },
+    {
+      "name": "Francois",
+      "occupation": "dev",
+      "weapon": "ovzjoj",
+      "isCartoon": true,
+      "id": 9,
+      "cartoon": true
+    }
+  ]
+}
